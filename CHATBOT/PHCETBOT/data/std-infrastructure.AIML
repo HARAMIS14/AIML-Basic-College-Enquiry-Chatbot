@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+
+<category>
+<pattern>DEPARTMENTS LABS</pattern>
+<template>
+  Basement -  Workshop and Research and Development Lab
+  Ground floor - Labs for FE and Faculty room  of FE faculty
+  1st floor - Department of Electronics and Telecommunication Engineering 
+  2nd floor - Classrooms for FE and library
+  3rd floor -  Department of Mechanical Engineering and Automobile Engineering
+  4th floor -  Department of Computer Engineering and IT Engineering
+  5th floor -  Department of Electrical Engineering and Civil Engineering  
+  Link:https://phcet.ac.in/about/infrastructure-and-facilities/
+</template>
+</category>
+
+<category>
+<pattern>CAMPUS TOUR</pattern>
+<template>
+  For campus tour please visit the following link.
+  Link:https://phcet.ac.in/about/infrastructure-and-facilities/campus-tour/
+</template>
+</category>
+
+<category>
+<pattern>HOSTEL FACILITY</pattern>
+<template>
+   Hostel Payment Details A.Y. 2019-20 (Girls Hostel and Boys Hostel)
+
+   Hostel Deposit - Rs. 15,000/
+   Hostel Rent - Rs. 3,800/-p.m.
+   Total Rent - Rs. 38,000/-pa (First Year and Direct Second Year Students) 
+                            Rs. 41,800/- p.a (Second Year Third Year, Fourth Year and Fifth Year Students)
+   Hostel Mess - Rs 3,500/-p.m.
+
+  Link:https://phcet.ac.in/about/infrastructure-and-facilities/hostel-facility/
+</template>
+</category>
+
+<category>
+<pattern>CANTEEN</pattern>
+<template>
+  The campus canteen serves hygienic and quality food to the students and faculty.
+  Link:https://phcet.ac.in/about/infrastructure-and-facilities/
+</template>
+</category>
+
+</aiml>

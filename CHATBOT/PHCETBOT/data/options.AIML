@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="2.0">
+
+
+<category>
+<pattern>FEES</pattern>
+<template> 
+<random>
+<li>
+----------------------1)FEES FE------------------------
+----------------------2)FEES SE------------------------
+----------------------3)FEES TE------------------------
+----------------------4)FEES BE------------------------
+----------------------5)FEES ME-------------------- 	 
+</li>
+</random>
+</template>
+</category>
+
+
+<category>
+<pattern>INFRASTRUCTURE</pattern>
+<template>
+ <random>
+<li>------------1)DEPARTMENTS LABS-------------  
+    ------------2)CAMPUS TOUR----------------------    
+    ------------3)HOSTEL FACILITY-------------------
+    ------------4)CANTEEN----------------------------
+</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>ACADEMIC</pattern>
+<template>
+ <random>
+<li>----------1)BACHELORS PROGRAMMES------  
+    ----------2)ELIGIBILITY BACHELORS-----------   
+    ----------3)MASTERS PROGRAMMES-----------
+    ----------4)ELIGIBILTY MASTERS-----------------
+    ----------5)PHD COURSES-------------------------
+    ----------6)SYLLABUS--------------------------------
+    ----------7)QUESTION PAPERS-------------------
+    ----------8)ADMISSIONS----------------------------
+    ----------9)ENQUIRY FORM------------------------
+    ----------10)ADMISSION DOCUMENTS--------	
+</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>FACULTY</pattern>
+<template>
+ <random>
+<li>
+-------1)PRINCIPAL PHCET--------------------
+----------2)MECHANICAL ENGINEERING----
+-----------3)AUTOMOBILE ENGINEERING--
+-------------4) COMPUTER ENGINEERING----
+-------------5) CIVIL ENGINEERING------------
+---------------6) INFORMATION TECHNOLOGY
+------------7) ELECTRICAL ENGINEERING-----
+-----------8) ELECTRONICS AND TELECOMMUNICATION ENGINEERING
+---------9) APPLIED SCIENCES AND HUMANITIES
+</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>PLACEMENTS</pattern>
+<template>
+ <random>
+<li>
+--------------1)RECRUITERS-------------------------      
+--------------2)COMPANY LOGOS----------------      
+--------------3)INTERNSHIPS-----------------------      
+--------------4)PLACEMENTS CELL--------------      
+--------------5)PLACEMENTS ACTIVITIES------
+</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>EVENTS</pattern>
+<template>
+ <random>
+<li>      
+--------------1)EUFORIA------------------------------      
+--------------2)TECH EUFORIA-------------------      
+</li>
+</random>
+</template>
+</category>
+</aiml>

@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+
+<category>
+<pattern>PRINCIPAL PHCET</pattern>
+<template>
+Dr. Mathew T. Joseph
+Faculty of Computer Engineering Department
+mathewJoseph@mes.ac.in
+
+Education
+ Ph.D. 1996: Birla Institute of Technology and Science (BITS), Pilani in Computer Science and Technology
+M.Sc. 1982: University of Pune in Applied Mathematics
+B.Sc. 1981: University of Pune in Applied Computer Science
+B.Sc. 1977: University of Pune in Mathematics (Hons.) M.F.M. 1991: University of Mumbai, from NMIMS, in Finance Management
+  
+Read more at: https://phcet.ac.in/faculty/faculty-directory/dr-mathew-t-joseph/
+</template>
+</category>
+
+<category>
+<pattern>MECHANICAL ENGINEERING</pattern>
+<template>
+HOD: Dr. Gajendra Vasantrao Patil	
+Educational Qualification: 1)Phd. Technology, Mechanical, VJTI, O Mumbai Mechanical Engineering
+                                                         2)ME. 2005: Mechanical CAD/CAM, Bharati Vidyapeeth University
+                                                         3) B.E. 2000: Mechanical, Shivaji University, Kolhapur
+         FACULTY OF MECHANICAL ENGINEERING
+
+SR.NO.	NAME OF FACULTY	                              MES ID
+1	Dr. Gajendra Vasantrao Patil	    :    gpatil@mes.ac.in
+2	Dr. R. C. Prasad	            :   rcprasad@mes.ac.in
+3	Dr. Mariappan Dharmaraj Nadar       :    mdnadar@mes.ac.in
+4	Dr. Kalyana K. Sundaram	            :    kkalyanasundaram@mes.ac.in
+5	T.R.B. Sanjai Kumar	            :	skumar@mes.ac.in
+6	Shishirkumar Namdev Kadam           :	skadam@mes.ac.in
+7	Suhas A. Uthale	                    :   suthale@mes.ac.in
+8	George Joseph Kakkessary	    :    georgek@mes.ac.in
+9	Sawpnil B. Nawale	            :    bswapnil@mes.ac.in
+10	Sunilsingh Chandramohan Rajput 	    :	srajput@mes.ac.in
+11	Atul V. Jade	                    :    ajade@mes.ac.in
+12	Manoj K. Jadhav	                    :    mkjadhav@mes.ac.in
+13	Prabhu S. Ganacharya	            :	prabhug@mes.ac.in
+14	Pravin Dahalke	                    :    dpravin@mes.ac.in
+15	Rahul Shankarrao Warghane	    :    rahul@mes.ac.in
+16	Ajay Pillai	                    :    ajay.av@mes.ac.in
+17	Shashi Bhushan	                    :    sbhushan@mes.ac.in
+18	Ashwini S. Kadam	            :    akadam@mes.ac.in
+19	Anish Sivarajan	                    :    ksanish@mes.ac.in
+20	Jyoti C. Bankar	                    :    jbankar@mes.ac.in
+21	Hemant M. Patil	                    :    hemantpatil@mes.ac.in
+22	Aditya Ashok Shinde	            :    adityashinde@mes.ac.in
+23	Sayali Vishal Kulkarni	            :    sayalikulkarni@mes.ac.in
+24	Abhijeet R. Aurangabadkar	    :    abhijeeta@mes.ac.in
+25	Saurabh Sanjay Shirsekar	    :    saurabhshirsikar@mes.ac.in
+26	Siddhi Satyawan Hatle	            :	siddhihatle@mes.ac.in
+27	Datta Kishan Wakshe	            :	dattawakshe@mes.ac.in
+28	Amar Arun Jadhav	            :    aajadhav@mes.ac.in
+29	Dr. Sandipan Shankar Pawar	    :    pawarsandipan@mes.ac.in
+30	Vaibhav K. Bhagat	            :    vbhagat@mes.ac.in
+
+  
+Read more at: https://phcet.ac.in/faculty/faculty-directory/
+</template>
+</category>
+
+<category>
+<pattern>AUTOMOBILE ENGINEERING</pattern>
+<template>
+HOD: Vivek Meshram
+   FACULTY OF AUTOMOBILE ENGINEERING
+SR. NO.	  NAME OF FACULTY	              MES ID
+ 1.	Vivek Meshram	      :    vivekmeshram@mes.ac.in
+2.	Nitin N. Gholap	      :   ngholap@mes.ac.in
+3.	Sameer Vishnu Agale   :    sameer@mes.ac.in
+4.	Tatyasaheb Garande    :    tatyasaheb@mes.ac.in
+5.	Gautam Baban Ghegadmal:	  gautamg@mes.ac.in
+6.	Aniket Prakash Dumbre :	  adumbre@mes.ac.in
+7.	Arjun Deshmukh	      :    arjundeshmukh@mes.ac.in
+8.	Amar Dokhe	      :    amardokhe@mes.ac.in
+Read more at: https://phcet.ac.in/faculty/faculty-directory/
+</template>
+</category>
+
+<category>
+<pattern>COMPUTER ENGINEERING</pattern>
+<template>
+HOD: Dr. Ashok M. Kanthe
+Educational Qualification:1) Ph.D. 2015: University of Zagreb, Croatia in Wireless Network Security
+                                                        2)M.Tech. 2007; Dr. Babasaheb Technological University, Lonere Computer Engineering
+                                                        3)O B.E (CSE) 1997: Computer Engineering from Shri Guru Gobind Singhji (S.G.G.S.) College of Engineering and Technology, Nanded. Dr. Babasaheb Ambedkar Marathwada University,                                                            Aurangabad (M.s.)
+         FACULTY OF COMPUTER ENGINEERING
+
+SR. NO.	NAME OF FACULTY	                                   MES ID
+1.	Dr. Madhumita A. Chatterjee	:   mchatterjee@mes.ac.in
+2.	Dr. Mathew T. Joseph	        :   mathewjoseph@mes.ac.in
+3.	Dr. Ashok M. Kanthe	    	:   ashokkanthe@mes.ac.in
+4.	Dr. J. E. Nalavade	        :   jenalavade@mes.ac.in
+5.	Munawira Kotyad	                :   mkpillai@mes.ac.in
+6.	Babita V. Bhagat	        :   bbhagat@mes.ac.in
+7.	Rohini B. Bhosale	        :   rbhosale@mes.ac.in
+8.	Ekta R. Ukey	                :   eukey@mes.ac.in
+9.	Srijita Bhattacharjee	        :   srijitab@mes.ac.in
+10.	Rajshree Tukaram Gadhave	:   rgadhave1@mes.ac.in
+11.	Neha N. Rane	                :   nnair@mes.ac.in
+12.	Rahul Kapse	                :   rkapse@mes.ac.in
+13.	Jacob John	                :   jacobjohn@mes.ac.in
+14.	Swapnil P. Waghmare	        :   swaghmare@mes.ac.in
+15.	Nikhil R. Raje	                :   nraje@mes.ac.in
+16.	Archana Augustine               :   aaugustine@mes.ac.in
+17.	Rajashree Aneesh	        :   raneesh@mes.ac.in
+18.	Archana Arudkar	                :   archanaa@mes.ac.in
+19.	Anish Pillai	                :   anishp@mes.ac.in
+20.	Snehal R. Shinde	        :   srshinde@mes.ac.in
+21.	Neha G. Rathi	                :   nrathi@mes.ac.in
+22.	Darshana Kashinath Wajekar	:   dwajekar@mes.ac.in
+23.	Pooja Anant Pemare	        :   poojapemare@mes.ac.in
+24.	Abhijeet More	                :   mabhijeet@mes.ac.in
+25.	Kiranjeet Kaur Sandhu	        :   ksandhu@mes.ac.in
+26.	Sneha Vijay Joshi	        :   jsneha@mes.ac.in
+27.	Neetu Pillai	                :   neetuvenugopal@mes.ac.in
+28.	Kajal Patel	                :   kajalpatel@mes.ac.in
+
+Read more at: https://phcet.ac.in/faculty/faculty-directory/
+</template>
+</category>
+
+<category>
+<pattern>CIVIL ENGINEERING</pattern>
+<template>
+HOD: Dr. Amit Das Gupta
+Educational Qualification:1)Ph.D. 2017: Indian Institute of Technology Bombay
+                                                         2)O M.Sc. 1981: Jadavpur University (Kolkata) in Applied Geology
+         FACULTY OF CIVIL ENGINEERING
+
+SR.NO.	NAME OF FACULTY	                             MES ID
+1.	Dr. Amit Das Gupta	       :      amitdasgupta@mes.ac.in
+2.	Dr. Vinay Nikam	               :      vinaynikam@mes.ac.in
+3.	Dr. Shilpa Pankaj Kewate       :	     shilpakewate@mes.ac.in
+4.	Raju Narwade	               :      rnarwade@mes.ac.in
+5.	Manisha Jamgade	               :      mjamgade@mes.ac.in
+6.	Karthik Nagarajan	       :      knagarajan@mes.ac.in
+7.	Sonali Vikrant Baviskar	       :      sbaviskar@mes.ac.in
+8.	Madhulika Sinha	               :      madhulikas@mes.ac.in
+9.	Sayed Anwarul Haque	       :      sayed@mes.ac.in
+10.	Manish Raghunath Mane	       :      manish@mes.ac.in
+11.	Apurva Deshpande	       :      apurva@mes.ac.in
+12.	Shivraj Patil	               :      sgpatil@mes.ac.in
+13.	Harshal Pathak	               :      harshal@mes.ac.in
+14.	Ashwini P.	               :      ashwinip@mes.ac.in
+15.	Steffi Stephen	               :      steffi@mes.ac.in
+16.	Gayatri Deshpande	       :      gayatri@mes.ac.in
+17.	Smitha J. S.	               :      smitha@mes.ac.in
+18.	Sandeep V.Gujjar	       :     sandeepg@mes.ac.in
+
+
+Read more at: https://phcet.ac.in/faculty/faculty-directory/
+</template>
+</category>
+
+<category>
+<pattern>INFORMATION TECHNOLOGY</pattern>
+<template>
+HOD: Amol N. Karande
+Educational Qualification: 1) M.E:Information and Cyber Warfare, Pillai HOC College of Enhgineering and Technology, Rasayani.
+                                                         2)B.E:CSE, Dr. Babasaheb Ambedkar Marathwada University, Aurangabad .
+                                                         3)D.C.O.: C.S., G. R Khamgaon, MSEITE
+         FACULTY OF INFORMATION TECHNOLOGY
+
+SR.NO.	NAME OF FACULTY              	MES ID
+1.	Amol N. Karande	         :   akarande@mes.ac.in
+2.	Monisha Mohan	         :   monisha@mes.ac.in
+3.	Poonam R. Pathak         :   ppathak@mes.ac.in
+4.	Prachi Rajendra Sorte	 :    prsorte@mes.ac.in
+5.	Rupali Mangesh Sathe	 :   rupalisathe@mes.ac.in
+6.	Farheen Shaikh	         :   farheenshaikh@mes.ac.in
+7.	Shamna Sadanand	         :   shamnas@mes.ac.in
+8.	Siddhesh Khanvilkar	 :   skhanvilkar@mes.ac.in
+9.	Ashwini Khillari	 :   kashwini@mes.ac.in
+10.	Priyanka S. Sonawane	 :   spriyanka@mes.ac.in
+
+Read more at: https://phcet.ac.in/faculty/faculty-directory/
+</template>
+</category>
+
+<category>
+<pattern>ELECTRICAL ENGINEERING</pattern>
+<template>
+HOD: Dr. Panimaya Selvi Isabel A.
+Educational Qualification:                               1) Ph.D. 2017: National Chiao Tung University, Taiwan in Material Science Engineering .
+                                                         2)M.E. 2011: University Department of Anna University of Technology, Trinelveli in Energy Engineering .
+                                                         3)B.E. 2001:Jerusalem College of Engineering, University of Madras in Electrical and Electronics Engineering.
+         FACULTY OF ELECTRICAL ENGINEERING
+
+SR. NO.	NAME OF FACULTY	                                   MES ID
+1.	Dr. Panimaya Selvi Isabel A.	  :       panimaya@mes.ac.in
+2.	Pranita R. Chavan	          :       pranitachavan@mes.ac.in
+3.	Kiran Inamdar	                  :       kinamdar@mes.ac.in
+4.	Asokan S.                         : 	 aselvaraj@mes.ac.in
+5.	Aamir Shaikh                 	  :       ashaikh@mes.ac.in
+6.	Sangeetha Rajagopal               :       srajagopal@mes.ac.in
+7.	Sajid Karim Shaikh	          :       sshaikh@mes.ac.in
+8.	Ramrao Dattatraya More	          :       ramrao@mes.ac.in
+9.	Sanobar Naaz Shaikh 	          :       sanobarshaikh@mes.ac.in
+10.	Laxmi C. R.                       :       crlaxmi@mes.ac.in
+11.	Supriya Sunil Shigwan	          :       sshigwan@mes.ac.in
+12.	Ronita Pawn                       :	 ronita@mes.ac.in
+13.	Shruti Gite                       :	 shrutigite@mes.ac.in
+ 
+Read more at: https://phcet.ac.in/faculty/faculty-directory/
+</template>
+</category>
+
+<category>
+<pattern>ELECTRONICS AND TELECOMMUNICATION ENGINEERING</pattern>
+<template>
+HOD: Dr. Mansi S. Subhedar 
+Educational Qualification: 1) Ph.D.2019:RTMN University, Nagpur in Electronics Engineering
+                                                         2)M.E. 2008:University of Mumbai, Mumbai in Electronics Engineering ▪
+                                                         3)B.E. 2004:Dr. BAMU, Aurangabad in Electronics and Telecommunication Engineering
+         FACULTY OF ELECTRONICS AND TELECOMMUNICATION ENGINEERING
+
+SR. NO.	NAME OF FACULTY	                                  MES ID
+1.	Dr. Mansi S. Subhedar 	    :            msubhedar@mes.ac.in
+2.	Dr. Divya Y. Chirayil	    :            dchirayil@mes.ac.in
+3.	Neha Shivhare               :      	nrai@mes.ac.in
+4.	Rekha R. Dhawan             :		rdhawan@mes.ac.in
+5.	Priya Swapnil Tambe	    :		priyatambe@mes.ac.in
+6.	Upendra D. Patil            :		upatil@mes.ac.in
+7.	Shashikant T. Renushe	    :		srenushe@mes.ac.in
+8.	Jayesh L. Rane              :		jrane@mes.ac.in
+9.	Nitesh Agarwal              :		nagarwal@mes.ac.in
+10.	Mithun G. Nair              :		mithunnair@mes.ac.in
+11.	Pratik J. Mhatre            :		pmhatre@mes.ac.in
+12.	Pooja M. Shukre             :		pshukre@mes.ac.in
+13.	Narendra Devidas Dhande	    :		ndhande@mes.ac.in
+14.	IR. Sharad Shingade	    :		sshingade@mes.ac.in
+
+Read more at: https://phcet.ac.in/faculty/faculty-directory/
+</template>
+</category>
+
+<category>
+<pattern>APPLIED SCIENCES AND HUMANITIES</pattern>
+<template>
+HOD: Dr. Manvendra Vashistha
+Educational Qualification: 1) Ph.D.2000:Centre for Non Conventional Energy Resources, University of Rajasthan, Jaipur in Physics .
+                                                         2)M.B.A.2009:National Institute of Business Management, Chennai in HR
+                                                         3)M.Sc.1991:Physics Dept, Agra University in Physics
+                                                         4)B.Sc.1989:Maharaja's College, University of Rajasthan, Jaipur in Physics, Maths and Statistics. 
+         FACULTY OF APPLIED SCIENCE AND HUMANITIES
+
+SR. NO.	NAME OF FACULTY	                                      MES ID
+1.	Dr. Manvendra Vashistha		:		manvendrav@mes.ac.in
+2.	Dr. Avinash T. Gatade		:		agatade@mes.ac.in
+3.	Dr. Avinash J. Kamble		:		avinashkamble@mes.ac.in
+4.	Vishakha J. Gajghate	        :		vgajghate@mes.ac.in
+5.	Nilesh Bhanudas Raut		:		nraut@mes.ac.in
+6.	Sunita S. Khansole            	:		skhansole@mes.ac.in
+7.	Sanjay B. Ghorpade 		:		sghorpade@mes.ac.in
+8.	Sathish Umapathi     		:		usathish@mes.ac.in
+9.	Vikram Anandrao Pawar		:		vapawar@mes.ac.in
+10.	Vijaya B. Shelke             	:		vshelke@mes.ac.in
+11.	Jagdish Namdeo Parate		:		jparate@mes.ac.in
+12.	Suma Lalit Podnolanna		:		slalit@mes.ac.in
+13.	Poonam Madhukar Patil		:		pmpatil@mes.ac.in
+14.	Juliet Esther                   : 		julietesther@mes.ac.in
+15.	Anuraj Lekurwale           	:		anuraj@mes.ac.in
+16.	Shital Sopan Rithe         	:		shital@mes.ac.in
+17.	Harshada Mohan Pratham		:		harshatapratham@mes.ac.in
+18.	Sarita Devi                     :       	sdevi@mes.ac.in
+
+Read more at: https://phcet.ac.in/faculty/faculty-directory/
+</template>
+</category>
+
+
+</aiml>

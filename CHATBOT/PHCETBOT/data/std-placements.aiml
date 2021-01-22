@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<category>
+	<pattern>RECRUITERS</pattern>
+	<template>
+	<random>
+	<li>Various companies are coming to recruite our students and offer maximum packages
+	    MAIN RECRUITERS are TCS,RELIANCE JIO,L AND T INFOTECH etc
+	    for more information https://phcet.ac.in/students/placements/our-recruiters/</li>
+	</random>
+	</template>
+</category>
+<category>
+	<pattern>recruiters*</pattern>
+	<template>
+	<srai>RECRUITERS</srai>
+	</template>
+</category>
+<category>
+	<pattern>COMPANY LOGOS</pattern>
+	<template>
+	<random>
+	<li>The Companies logos of recruiters are https://phcet.ac.in/students/placements/company-logos/</li>
+	</random>
+	</template>
+	</category>
+<category>
+	<pattern>company logos*</pattern>
+	<template>
+	<srai>COMPANY LOGOS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>INTERNSHIPS</pattern>
+	<template>
+	<random>
+	<li>-Our college train students to get interships
+            - Interships plays an important role to get jobs in dream company
+	    - The following data of our college Students:-https://phcet.ac.in/students/placements/internship/</li>
+	</random>
+	</template>
+</category>
+<category>
+	<pattern>interships*</pattern>
+	<template>
+	<srai>INTERSHIPS</srai>
+	</template>
+</category>
+<category>
+	<pattern>PLACEMENTS CELL</pattern>
+	<template>
+	<random>
+	<li>Our college has an integrated Training and Placement cell.This cell has the requisite infrastructure and human resources support and for its effective functioning
+            main aim of your college is 1)Personal Development programs
+					2)Career Guidance 
+					3)Industry Institute Interactions
+					4)Placement Preparedness
+					5)Industry Relations</li>
+	</random>
+	</template>
+</category>
+<category>
+	<pattern>placement cell*</pattern>
+	<template>
+	<srai>PLACEMENTS CELL</srai>
+	</template>
+</category>
+<category>
+	<pattern>PLACEMENTS ACTIVITIES</pattern>
+	<template>
+	<random>
+	<li>Our college oragnise various activities related to placements.For latest update https://phcet.ac.in/students/placements/placement-cell-activities/</li>
+	</random>
+	</template>
+</category>
+<category>
+	<pattern>placement activites*</pattern>
+	<template>
+	<srai>PLACEMENTS ACTIVITES</srai>
+	</template>
+</category>
+
+</aiml>

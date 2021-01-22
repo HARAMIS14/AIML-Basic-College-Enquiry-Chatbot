@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<category>
+<pattern>FEES FE</pattern>
+<template>
+  1)OPEN CATEGORY:Total fees is 99,000/- .
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 55,000/- .
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY:Total fees is 13,000/- .
+  Link:https://phcet.ac.in/academics/admissions/fee-structure/
+</template>
+</category>
+
+<category>
+<pattern>FEES SE</pattern>
+<template>
+  1)OPEN CATEGORY:Total fees is 98,000/- .			                            
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 56,000/- .
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY:Total fees is 13,000/- .
+FEES DSE SE:
+  1)OPEN CATEGORY:Total fees is 99,000/- .
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 57,000/- 
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY: Total fees is 15,000/- 
+  Link:https://phcet.ac.in/academics/admissions/fee-structure/
+</template>
+
+</category>
+
+<category>
+<pattern>FEES TE</pattern>
+<template>
+  1)OPEN CATEGORY:Total fees is 1,00,000/-.
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 59,000/- .
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY:Total fees is 13,000/- .
+FEES DSE TE:
+  1)OPEN CATEGORY:Total fees is 1,00,000/- .
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 59,000/- .
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY:Total fees is 12,000/- .
+  Link:https://phcet.ac.in/academics/admissions/fee-structure/
+</template>
+</category>
+
+<category>
+<pattern>FEES BE</pattern>
+<template>
+  1)OPEN CATEGORY:Total fees is 1,00,000/- .
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 60,000/- .
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY:Total fees is 14,000/- .
+FEES DSE BE:
+  1)OPEN CATEGORY:Total fees is 1,00,000/- .
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 60,000/- .
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY:Total fees is 14,000/- .
+  Link:https://phcet.ac.in/academics/admissions/fee-structure/
+</template>
+</category>
+
+<category>
+<pattern>FEES DSE SE</pattern>
+<template>
+  1)OPEN CATEGORY:Total fees is 99,000/- .
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 57,000/- 
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY: Total fees is 15,000/- 
+  Link:https://phcet.ac.in/academics/admissions/fee-structure/
+</template>
+</category>
+
+<category>
+<pattern>FEES DSE TE</pattern>
+<template>
+  1)OPEN CATEGORY:Total fees is 1,00,000/- .
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 59,000/- .
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY:Total fees is 12,000/- .
+  Link:https://phcet.ac.in/academics/admissions/fee-structure/
+</template>
+</category>
+
+<category>
+<pattern>FEES DSE BE</pattern>
+<template>
+  1)OPEN CATEGORY:Total fees is 1,00,000/- .
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 60,000/- .
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY:Total fees is 14,000/- .
+  Link:https://phcet.ac.in/academics/admissions/fee-structure/
+</template>
+</category>
+<category>
+<pattern>FEES ME</pattern>
+<template>
+  1)FIRST YEAR:Total fees is 95,000/-   for home university students and 96,000/-  for other than home university students( INSTITUTIONAL SCHOLARSHIP IS AVAILABLE).
+  2)SECOND YEAR:Total fees is 1,00,000/- ( INSTITUTIONAL SCHOLARSHIP IS AVAILABLE).
+   Link:https://phcet.ac.in/academics/admissions/fee-structure/
+</template>
+</category>
+</aiml>

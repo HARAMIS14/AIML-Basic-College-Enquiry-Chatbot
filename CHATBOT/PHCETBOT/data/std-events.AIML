@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+
+<category>
+<pattern>EUFORIA</pattern>
+<template>
+<random>
+<li>This is National level college fest organized by PHCET.
+This fest includes many activities such as cultural,sports,dramas and many more.
+for more information:-https://phcet.ac.in/news-and-events/events/</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>TECH EUFORIA</pattern>
+<template>
+<random>
+<li>This is National level college fest organized by PHCET.
+This fest includes many activities such as debugging,robotics and many more.
+for more information:-https://phcet.ac.in/news-and-events/events/</li>
+</random>
+</template>
+</category>
+
+ 
+</aiml>

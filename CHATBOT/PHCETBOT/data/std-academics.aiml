@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<category>
+<pattern>BACHELORS PROGRAMMES</pattern>
+<template>
+  Bachelors Programmes provided are Automobile Engineering, Civil Engineering, Computer Engineering, Electrical Engineering, Electronics and Telecommunications Engineering, Information Technology Engineering,Mechanical Engineering and Applied Sciences and Humanities.
+Link:https://phcet.ac.in/academics/bachelors/
+</template>
+</category>
+
+<category>
+<pattern>ELIGIBILITY BACHELORS</pattern>
+<template>
+  First Year Degree Bachelor of Engineering
+
+1. Passed HSC or its equivalent examination with Physics and Mathematics as compulsory subjects along with one of the Chemistry or Biotechnology or Biology or Technical Vocational subjects, and obtained at least 50% marks (at least 45% marks, in case of Reserved class categories and Persons with Disability candidates belonging to Maharashtra State only) in the above subjects taken together and The Candidate should have appeared in all the subjects in MHT-CET 2018 and should obtain non zero score in MHT-CET 2018.
+OR
+Passed Diploma in Engineering and Technology and obtained at least 50% marks (at least 45% marks, in case of Backward class categories and Persons with Disability candidates belonging to Maharashtra State only.
+
+Direct Second  Year Bachelor of Engineering 
+
+1. Passed Diploma Course in Engineering and Technology with at least 45% marks (40% marks in case of candidates of reserved class categories and Persons with Disability belonging to Maharashtra State only) in appropriate branch of Engineering and Technology from an All India Council for Technical Education or Central or State Government approved Institution or its equivalent;
+OR
+Passed B.Sc Degree from a University Grants Commission (UGC) or Association of Indian Universities recognized University with at least 45% marks (40% in case of candidates of reserved class categories and Persons with Disability belonging to Maharashtra State only) and passed HSC with Mathematics as a subject. Provided that students belonging to this category shall clear the sub of Engineering Graphics / Engineering Drawing and Engineering Mechanics of the first year Engineering Program along with second year subjects.
+Link:https://phcet.ac.in/academics/bachelors/
+</template>
+</category>
+
+<category>
+<pattern>MASTERS PROGRAMMES</pattern>
+<template>
+  Masters Programmes provided are  Civil Engineering(Construction Engineering and Management), Computer Engineering,  Electronics and Telecommunication Engineering,Mechanical Engineering(Machine Design).
+Link:https://phcet.ac.in/academics/bachelors/
+</template>
+</category>
+
+<category>
+<pattern>ELIGIBILTY MASTERS</pattern>
+<template>
+  First Year Master of Engineering
+
+1. The Candidate should be an Indian National.
+2. Passed Bachelor Degree in the relevant field of Engineering and Technology from All India Council for Technical Education or Central or State Government approved Institutions or equivalent, with at least 50% marks (at least 45% marks in case of candidates of Reserved class categories and persons with disability belonging to Maharashtra State only); 
+3. Passed Bachelor Degree in the relevant course of Engineering and Technology as specified in the eligibility criteria for admission to a Post Graduate Degree course of theconcerned University for which admission is being sought.
+4. Obtained non zero positive score in Graduates Aptitude Test in Engineering (GATE) conducted by Indian Institute of Technology:
+
+OR
+
+For sponsored candidates, minimum of two years of fulltime work experience in a registered firm company / industry, educational and | or research Institute / any or Government Autonomous Government Department Organization in the relevant field in which admission is being sought.
+
+Link:https://phcet.ac.in/academics/masters/
+</template>
+</category>
+
+<category>
+<pattern>PHD COURSES</pattern>
+<template>
+ Ph.D courses provided are Computer Engineering and Civil Engineering.
+Link:https://phcet.ac.in/academics/ph-d/
+</template>
+</category>
+
+<category>
+<pattern>SYLLABUS</pattern>
+<template>
+Syllabus of all years and departments is available in the link below.
+Link:https://phcet.ac.in/academics/syllabus/
+</template>
+</category>
+
+<category>
+<pattern>QUESTION PAPERS</pattern>
+<template>
+Question papers of all years and departments is available in the link below.
+Link:https://phcet.ac.in/academics/question-papers/
+</template>
+</category>
+
+<category>
+<pattern>ADMISSIONS</pattern>
+<template>
+For detailed information about admission visit the link below
+Link:https://phcet.ac.in/academics/admissions/admissions-and-eligibility/
+</template>
+</category>
+
+<category>
+<pattern>ENQUIRY FORM</pattern>
+<template>
+To fill the Admission enquiry form visit the link below.
+Link:https://phcet.ac.in/academics/admissions/admission-enquiry-form/
+</template>
+</category>
+
+<category>
+<pattern>ADMISSION DOCUMENTS</pattern>
+<template>
+To seek admission in BE,DSE or ME following is the list of documents.
+Link:https://phcet.ac.in/academics/admissions/list-of-document-required/
+</template>
+</category>
+
+
+</aiml>
+
+
+
