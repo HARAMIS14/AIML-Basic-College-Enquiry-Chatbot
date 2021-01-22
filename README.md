@@ -5,8 +5,10 @@ Since information regarding the college keeps on changing, there are AIML data f
 
 INSTALLATION:
   For installation enter 'pip install -r requirements.txt' in command prompt.
+
 Python EXECUTION: 
 	Open command prompt and run 'python conversation.py' to run the bot
+
 Interface EXECUTION: 
 	Open command prompt and run 'python bot.py', once it runs, open the link '//127.0.0.7:5000/' on a browser and start chatting with the bot...
 
