@@ -17,5 +17,7 @@ Once you are directed to the chatbot interface, there's a menu displayed with op
 Choose the required option to obtain another dropdown menu containing more options. Consider demo input as FEES then the output will be a list containing options like FEES FE, FEES SE, FEES TE, etc. Next input is considered as FEES FE and the output will the fees amount.
 
 
-THE PROJECT IS A DEMONSTRATION OF HOW REAL WORLD CHATBOTS WORK AND IS USED FOR EDUCATIONAL PURPOSE ONLY.   
-![AIML Basic College Enquiry Chatbot](AIMLGIF.gif)
+THE PROJECT IS A DEMONSTRATION OF HOW REAL WORLD CHATBOTS WORK AND IS USED FOR EDUCATIONAL PURPOSE ONLY. 
+
+
+![AIMLGIF](https://user-images.githubusercontent.com/77825652/105580656-ae50eb80-5db3-11eb-9321-1f342ef51263.gif)
