@@ -18,3 +18,4 @@ Choose the required option to obtain another dropdown menu containing more optio
 
 
 THE PROJECT IS A DEMONSTRATION OF HOW REAL WORLD CHATBOTS WORK AND IS USED FOR EDUCATIONAL PURPOSE ONLY.   
+![AIML Basic College Enquiry Chatbot](AIMLGIF.gif)
