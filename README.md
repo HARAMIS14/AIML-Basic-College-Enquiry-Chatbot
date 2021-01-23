@@ -20,4 +20,9 @@ Choose the required option to obtain another dropdown menu containing more optio
 THE PROJECT IS A DEMONSTRATION OF HOW REAL WORLD CHATBOTS WORK AND IS USED FOR EDUCATIONAL PURPOSE ONLY. 
 
 
+
+DEMO
+
+
+
 ![AIMLGIF](https://user-images.githubusercontent.com/77825652/105580656-ae50eb80-5db3-11eb-9321-1f342ef51263.gif)
